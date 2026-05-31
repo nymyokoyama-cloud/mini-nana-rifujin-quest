@@ -1,0 +1,19 @@
+{
+  "name": "mini-nana-rifujin-quest",
+  "private": true,
+  "version": "0.1.0",
+  "type": "module",
+  "description": "ミニ奈々ちゃんと理不尽クエスト - ブラウザで動く高難度2Dアクション",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc --noEmit && vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "phaser": "^3.90.0"
+  },
+  "devDependencies": {
+    "typescript": "^5.7.2",
+    "vite": "^6.0.7"
+  }
+}
