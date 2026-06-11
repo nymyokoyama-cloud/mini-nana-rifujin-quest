@@ -21,7 +21,7 @@
 | **ローカル作業フォルダ（唯一の編集場所）** | `/Users/user/Documents/ゲーム/ミニ奈々ちゃんと理不尽クエスト` |
 | **GitHub リポジトリ** | https://github.com/nymyokoyama-cloud/mini-nana-rifujin-quest |
 | **メインブランチ** | `main` |
-| **公開URL（本番・Cloudflare Pages）** | `https://【あなたが決めたプロジェクト名】.pages.dev` ← ★実際のURLに書き換えてください |
+| **公開URL（本番・Cloudflare Pages）** | `https://mini-nana-quest.pages.dev` |
 | **ローカル確認用URL** | `http://localhost:5173/`（`npm run dev` 実行時） |
 
 > ⚠️ 作業コピーは**この1フォルダだけ**にしてください。別の場所にクローンして二重管理しないこと。
